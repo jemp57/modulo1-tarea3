@@ -1,0 +1,7 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+Respuesta: Git resuelve un problema que todo equipo enfrenta tarde o temprano: ¿quién cambió qué, cuándo y por qué?
+Sin control de versiones, un proyecto con varias personas es caos. 
+Alguien sobreescribe el trabajo de otro, un error aparece y nadie sabe desde cuándo estaba ahí, o peor, se borra algo que no debía borrarse. 
+Git elimina ese riesgo manteniendo un historial completo de cada modificación.
+También hace posible el trabajo en paralelo. Varias personas pueden trabajar sobre el mismo proyecto sin pisarse, y si algo sale mal, volver a una versión anterior es cuestión de un comando.
+Por eso Git no es opcional en desarrollo de software. Es la diferencia entre un proyecto que se puede mantener y uno que eventualmente se sale de control.
